@@ -1,3 +1,7 @@
 [submodule "CBAS_DE"]
 	path = CBAS_DE
 	url = https://github.com/sevragorgia/CBAS_DE
+[submodule "CBAS_16S"]
+	path = CBAS_16S
+	url = https://github.com/sevragorgia/CBAS_16S
+
