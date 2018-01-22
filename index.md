@@ -1,4 +1,8 @@
-![CBAS](https://github.com/sevragorgia/CBAS_Pictures/blob/master/Aquarium/CBAS_Bleached_vs_Aquarium_20-10-14.jpg)
+![CBAS](https://github.com/sevragorgia/CBAS_Pictures/blob/master/Aquarium/CBAS_Bleached_vs_Aquarium_20-10-14.jpg){:class="img-responsive"}
+
+![CBAS](https://github.com/sevragorgia/CBAS_Pictures/blob/master/Aquarium/CBAS_Bleached_vs_Aquarium_20-10-14.jpg){:height="50%" width="50%"}
+
+![CBAS](https://github.com/sevragorgia/CBAS_Pictures/blob/master/Aquarium/CBAS_Bleached_vs_Aquarium_20-10-14.jpg){:height="700px" width="400px"}
 
 # CBAS Resources
 
