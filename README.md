@@ -37,5 +37,18 @@ Another reason why I consider important to mantain this centralized repository i
  - CBAS_Nanopore: a repo to summarize our results on the use of Nanopore sequencing on this system.
  - CBAS_Skin: a repo to summarize on going experiments on the microbiome associate with the "skin" of *L. chondrodes*
 
+# What does CBAS means and why do I keep finding it.
+
+The story goes:
+
+by the time I started working with *L. chondrodes* its taxonomy was not clear. The only information I had about the sponge was:
+
+ - it was blue
+ - it can be found in many aquaria
+ - in these systems is pretty common
+ - is a sponge
+
+from this information I came up with the acronym **C**ommon **Blue** **A**quarium **S**ponge (**CBAS**). I think this is nicer than *Lendenfeldia chondrodes* and will keep using it for my research.
+
 
 
