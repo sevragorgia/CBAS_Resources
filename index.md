@@ -1,4 +1,4 @@
-<img src="https://github.com/sevragorgia/CBAS_Pictures/blob/master/Aquarium/CBAS_Bleached_vs_Aquarium_20-10-14.jpg"  width="816" height="612" >
+<img src="https://github.com/sevragorgia/CBAS_Pictures/blob/master/Aquarium/CBAS_Bleached_vs_Aquarium_20-10-14.jpg"  width="408" height="306" >
 
 # CBAS Resources
 
