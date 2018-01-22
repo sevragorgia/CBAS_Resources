@@ -23,7 +23,7 @@ Copy the url using the clone button on the main page of this repository and open
 
  - CBAS_DE: data and scripts used 1. assemble *L. chondrodes* reference transcriptome and 2. to assess gene expression changes during photo symbiont loss
  - CBAS_16S: 16S V4 amplicon data. This repo groups different projects, including our shading/bleaching experiment.
- - CBAS_Metagenome: metagenomic data including very preliminary bacterial assemblies. Note that these assemblies are very preliminar and will be superseeded by new high-quality ones (hopefully) in the near future.
+ - CBAS_Metagenome: metagenomic data including very preliminary bacterial assemblies. **Note** that these assemblies are very preliminar and will be superseded by new high-quality ones in the (hopefully near) future.
  - CBAS_Pictures: a repo to keep together the original versions of the micro and macro pictures we take for different experiments.
 
 ## Planned future submodules
