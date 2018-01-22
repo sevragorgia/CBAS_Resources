@@ -41,8 +41,6 @@ Another reason why I consider important to mantain this centralized repository i
 
 *L. chondrodes* is a blue/purple/green encrusting sponge that can be commonly found in marine aquaria all over the world. *L. chondrodes* mantains a symbiotic relation with cyanobacteria of the Candidatus *Synechococcus spongiarum* group. In addition, other bacteria (at least 6 more) are present in its microbiome. The main objective of my research is to understand how this holobiont works. For this I mostly use *omic* methods (i.e. transcriptomics, (meta)genomics, etc). I think *L. chondrodes* represents a unique model sponge holobiont that can be easily investigated in different parts of the world.
 
-***
-
 # What does CBAS means and why do I keep finding it.
 
 The story goes:
