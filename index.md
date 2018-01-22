@@ -1,6 +1,6 @@
 ![CBAS](https://github.com/sevragorgia/CBAS_Pictures/blob/master/Aquarium/CBAS_Bleached_vs_Aquarium_20-10-14.jpg)
 
-![](https://github.com/sevragorgia/CBAS_Pictures/blob/master/Aquarium/CBAS_Bleached_vs_Aquarium_20-10-14.jpg){:height="50%" width="50%"}
+![](https://github.com/sevragorgia/CBAS_Pictures/blob/master/Aquarium/CBAS_Bleached_vs_Aquarium_20-10-14.jpg&s=200)
 
 # CBAS Resources
 
