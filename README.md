@@ -13,7 +13,7 @@ cheers
 Sergio
 
 
-# Clone instructions
+# Cloning instructions
 
 Copy the url using the clone button on the main page of this repository and open a terminal. If you want git to fetch and update all the submodules on cloning you need to pass the *--recursive* flag to *git clone*. Otherwise you need to use the *git submodule init* followed by *git submodule update*. This combination will fetch the data from the submodule repositories.
 
