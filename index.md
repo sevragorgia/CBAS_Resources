@@ -13,22 +13,13 @@ cheers
 
 Sergio
 
+***
 
-## Cloning instructions
+# Cloning instructions
 
 Copy the url using the clone button on the main page of this repository and open a new terminal. If you want git to fetch and update all the submodules on cloning, you need to pass the *--recursive* flag to *git clone*. Otherwise you need to use the *git submodule init* followed by *git submodule update* commands to get the data stored in the submodule repositories.
 
-
-# About *L. chondrodes* 
-
-*L. chondrodes* is a blue/purple/green encrusting sponge that can be commonly found in marine aquaria all over the world. *L. chondrodes* mantains a symbiotic relation with cyanobacteria of the Candidatus *Synechococcus spongiarum* group. In addition, other bacteria (at least 6 more) are present in its microbiome. The main objective of my research is to understand how this holobiont works. For this I mostly use *omic* methods (i.e. transcriptomics, (meta)genomics, etc). I think *L. chondrodes* represents a unique model sponge holobiont that can be easily investigated in different parts of the world.
-
-
-## Experimental settings and detailed protocols used for different experiments
-
-Another reason why I consider important to mantain this centralized repository is to keep somewhere a detailed as possible account on the experimental settings we use in our experiments. I have been trying to keep this as transparent as possible, but think that often more detail is necessary. The same happens with the protocols we use. I have optimized most of the through rounds of trial and error and too often journals do not accept long descriptions of procedures. 
-
-# Current submodules
+## Current submodules
 
  - CBAS_DE: data and scripts used 1. assemble *L. chondrodes* reference transcriptome and 2. to assess gene expression changes during photo symbiont loss
  - CBAS_16S: 16S V4 amplicon data. This repo groups different projects, including our shading/bleaching experiment.
@@ -39,6 +30,18 @@ Another reason why I consider important to mantain this centralized repository i
 
  - CBAS_Nanopore: a repo to summarize our results on the use of Nanopore sequencing on this system.
  - CBAS_Skin: a repo to summarize on going experiments on the microbiome associate with the "skin" of *L. chondrodes*
+
+## Experimental settings and detailed protocols used for different experiments
+
+Another reason why I consider important to mantain this centralized repository is to keep somewhere a detailed as possible account on the experimental settings we use in our experiments. I have been trying to keep this as transparent as possible, but think that often more detail is necessary. The same happens with the protocols we use. I have optimized most of the through rounds of trial and error and too often journals do not accept long descriptions of procedures. 
+
+***
+
+# About *L. chondrodes* 
+
+*L. chondrodes* is a blue/purple/green encrusting sponge that can be commonly found in marine aquaria all over the world. *L. chondrodes* mantains a symbiotic relation with cyanobacteria of the Candidatus *Synechococcus spongiarum* group. In addition, other bacteria (at least 6 more) are present in its microbiome. The main objective of my research is to understand how this holobiont works. For this I mostly use *omic* methods (i.e. transcriptomics, (meta)genomics, etc). I think *L. chondrodes* represents a unique model sponge holobiont that can be easily investigated in different parts of the world.
+
+***
 
 # What does CBAS means and why do I keep finding it.
 
