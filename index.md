@@ -29,7 +29,7 @@ Copy the url using the clone button on the main page of this repository and open
 ## Planned future submodules
 
  - CBAS_Nanopore: a repo to summarize our results on the use of Nanopore sequencing on this system.
- - CBAS_Skin: a repo to summarize on going experiments on the microbiome associate with the "skin" of *L. chondrodes*.
+ - CBAS_Skin: a repo to summarize ongoing experiments on the microbiome associate with the "skin" of *L. chondrodes*.
  - CBAS_Regeneration: a repo with data about tissue regeneration/growth in *L. chondrodes*.
 
 ## Experimental settings and detailed protocols used for different experiments
