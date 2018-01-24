@@ -21,15 +21,16 @@ Copy the url using the clone button on the main page of this repository and open
 
 ## Current submodules
 
- - CBAS_DE: data and scripts used 1. assemble *L. chondrodes* reference transcriptome and 2. to assess gene expression changes during photo symbiont loss
- - CBAS_16S: 16S V4 amplicon data. This repo groups different projects, including our shading/bleaching experiment.
+ - CBAS_DE: data and scripts used 1. assemble *L. chondrodes* reference transcriptome and 2. to assess gene expression changes during photo symbiont loss.
+ - CBAS_16S: 16S V4 amplicon data. This repo groups data from different projects using 16S V4 amplicon sequencing. It includes our shading/bleaching experiment.
  - CBAS_Metagenome: metagenomic data including very preliminary bacterial assemblies. **Note** that these assemblies are very preliminar and will be superseded by new high-quality ones in the (hopefully near) future.
  - CBAS_Pictures: a repo to keep together the original versions of the micro and macro pictures we take for different experiments.
 
 ## Planned future submodules
 
  - CBAS_Nanopore: a repo to summarize our results on the use of Nanopore sequencing on this system.
- - CBAS_Skin: a repo to summarize on going experiments on the microbiome associate with the "skin" of *L. chondrodes*
+ - CBAS_Skin: a repo to summarize on going experiments on the microbiome associate with the "skin" of *L. chondrodes*.
+ - CBAS_Regeneration: a repo with data about tissue regeneration/growth in *L. chondrodes*.
 
 ## Experimental settings and detailed protocols used for different experiments
 
