@@ -4,4 +4,9 @@
 [submodule "CBAS_16S"]
 	path = CBAS_16S
 	url = https://github.com/sevragorgia/CBAS_16S
+[submodule "CBAS_Pictures"]
+	path = CBAS_Pictures
+	url = https://github.com/sevragorgia/CBAS_Pictures
+
+
 
