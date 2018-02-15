@@ -3,7 +3,7 @@
 
 # CBAS Resources
 
-This is an umbrella site that hosts the data we generate on **CBAS***. It contains pointers to other repositories with data on this system.
+This is an umbrella site that hosts the data we generate on **CBAS**. It contains pointers to other repositories with data on this system.
 
 Note that these other repositories are mantained independently and that this repository uses git **submodules** to pull those repositories and the most recent changes pushed to them. This repository **should not be used to introduce changes to the submodules**, it was only created to centralize all the data generated on **CBAS**. If you want to contribute to one of the repositories, please send a pull request to that repository. The reason why I chose to provide this umbrella repository reflects the way in which the project develops. I think it is easier to develop independent repositories for specific projects and add these repos as submodules to this repository once the specific experiments are concluded, the data is available and is hopefully analyzed in some meaningful way.
 
@@ -21,10 +21,10 @@ Copy the url using the clone button on the main page of this repository and open
 
 ## Current submodules
 
- - [CBAS_DE][https://github.com/sevragorgia/CBAS_DE]: data and scripts used 1. assemble **CBAS** reference transcriptome and 2. to assess gene expression changes during photo symbiont loss.
- - [CBAS_16S][https://github.com/sevragorgia/CBAS_16S]: 16S V4 amplicon data. This repo groups data from different projects using 16S V4 amplicon sequencing. It includes our shading/bleaching experiment.
- - [CBAS_Metagenome][https://github.com/sevragorgia/CBAS_Metagenome]: metagenomic data including very preliminary bacterial assemblies. **Note** that these assemblies are very preliminar and will be superseded by new high-quality ones in the (hopefully near) future.
- - [CBAS_Pictures][https://github.com/sevragorgia/CBAS_Pictures]: a repo to keep together the original versions of the micro and macro pictures we take for different experiments.
+ - [CBAS_DE](https://github.com/sevragorgia/CBAS_DE): data and scripts used 1. assemble **CBAS** reference transcriptome and 2. to assess gene expression changes during photo symbiont loss.
+ - [CBAS_16S](https://github.com/sevragorgia/CBAS_16S): 16S V4 amplicon data. This repo groups data from different projects using 16S V4 amplicon sequencing. It includes our shading/bleaching experiment.
+ - [CBAS_Metagenome](https://github.com/sevragorgia/CBAS_Metagenome): metagenomic data including very preliminary bacterial assemblies. **Note** that these assemblies are very preliminar and will be superseded by new high-quality ones in the (hopefully near) future.
+ - [CBAS_Pictures](https://github.com/sevragorgia/CBAS_Pictures): a repo to keep together the original versions of the micro and macro pictures we take for different experiments.
 
 ## Planned future submodules
 
