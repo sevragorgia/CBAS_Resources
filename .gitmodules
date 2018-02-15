@@ -10,3 +10,6 @@
 
 
 
+[submodule "CBAS_Metagenome"]
+	path = CBAS_Metagenome
+	url = https://github.com/sevragorgia/CBAS_Metagenome.git
