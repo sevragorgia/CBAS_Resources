@@ -1,4 +1,5 @@
 title: CBAS_Resources
 description: Umbrella repository for all data generated on CBAS
-show_downloads: true
+show_downloads: false
+show_clone: true
 theme: jekyll-theme-minimal
