@@ -55,5 +55,8 @@ by the time I started working with **CBAS** its taxonomy was not clear. The only
 
 from this information I came up with the acronym **C**ommon **Blue** **A**quarium **S**ponge (**CBAS**). I think this is a nice name and will keep using it for my research.
 
+# Citing our work
 
+If you use these resources please cite the following papers:
+ - coming soon...
 
